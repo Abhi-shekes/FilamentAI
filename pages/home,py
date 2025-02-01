@@ -1,0 +1,9 @@
+# pages/home.py
+import streamlit as st
+
+def home():
+    if "username" in st.session_state:
+        st.title("Home")
+        st.write(f"Welcome, {st.session_state['username']}!")
+    else:
+        st.warning("Please log in first.")

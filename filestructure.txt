@@ -1,0 +1,15 @@
+|-- .env
+|-- README.md
+|-- app.py
+|-- components
+    |-- __pycache__
+        |-- login.cpython-310.pyc
+        |-- signup.cpython-310.pyc
+    |-- login.py
+    |-- signup.py
+|-- pages
+    |-- home,py
+|-- utils
+    |-- __pycache__
+        |-- db.cpython-310.pyc
+    |-- db.py
