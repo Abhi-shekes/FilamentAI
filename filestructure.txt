@@ -9,6 +9,7 @@
     |-- signup.py
 |-- pages
     |-- home,py
+|-- requirements.txt
 |-- utils
     |-- __pycache__
         |-- db.cpython-310.pyc
