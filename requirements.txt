@@ -1,8 +1,12 @@
 
-python-dotenv==1.0.1
+python-dotenv
 streamlit
 pymongo
 pandas
 numpy
 requests
 matplotlib
+rich
+markdown-it-py
+pygments
+mdurl
