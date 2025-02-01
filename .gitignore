@@ -1,1 +1,31 @@
-.env
+# Python bytecode
+__pycache__/
+*.pyc
+*.pyo
+
+# Virtual environment
+venv/
+.env/
+*.env
+
+# Jupyter Notebook checkpoints
+.ipynb_checkpoints/
+
+# Streamlit specific files
+*.db
+*.log
+
+# VS Code settings
+.vscode/
+
+# macOS specific files
+.DS_Store
+
+# Windows specific files
+Thumbs.db
+
+# IDEs or editors like PyCharm, IntelliJ, etc.
+.idea/
+
+# User-specific config
+*.swp
